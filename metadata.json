@@ -1,0 +1,6 @@
+{
+  "name": "O CÓDIGO DO AMOR",
+  "description": "Website oficial de apresentação e venda do e-book digital 'O CÓDIGO DO AMOR': Como Compreender as Relações, Recuperar o Teu Valor e Construir um Amor que Não Te Destrói.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
